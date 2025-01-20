@@ -1,0 +1,14 @@
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\bin\Debug\net8.0\DatabaseIndexing.exe
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\bin\Debug\net8.0\DatabaseIndexing.deps.json
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\bin\Debug\net8.0\DatabaseIndexing.runtimeconfig.json
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\bin\Debug\net8.0\DatabaseIndexing.dll
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\bin\Debug\net8.0\DatabaseIndexing.pdb
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\obj\Debug\net8.0\DatabaseIndexing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\obj\Debug\net8.0\DatabaseIndexing.AssemblyInfoInputs.cache
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\obj\Debug\net8.0\DatabaseIndexing.AssemblyInfo.cs
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\obj\Debug\net8.0\DatabaseIndexing.csproj.CoreCompileInputs.cache
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\obj\Debug\net8.0\DatabaseIndexing.dll
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\obj\Debug\net8.0\refint\DatabaseIndexing.dll
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\obj\Debug\net8.0\DatabaseIndexing.pdb
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\obj\Debug\net8.0\DatabaseIndexing.genruntimeconfig.cache
+C:\Users\Ghias\Source\Repos\DatabaseIndexing\obj\Debug\net8.0\ref\DatabaseIndexing.dll
